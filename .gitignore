@@ -1,0 +1,6 @@
+mask-check-*.jpg
+*.tar.gz
+node_modules/
+qa/
+__pycache__/
+.venv/
